@@ -27,3 +27,7 @@ OSCFunc({
     },
 '/play2').fix;
 ```
+
+All examples need oscP5 library for Processing by Andreas Schlegel.
+
+- http://www.sojamo.de/libraries/oscP5/
